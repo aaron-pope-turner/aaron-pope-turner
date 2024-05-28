@@ -6,6 +6,8 @@
 - 😄 Pronouns: This should be banned
 - ⚡ Fun fact: You are God and I can prove it to satisfaction for you. Just ask if you would like to wake up.
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 <!---
 aaron-pope-turner/aaron-pope-turner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
