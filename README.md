@@ -1,13 +1,15 @@
 - 👋 Hi, I’m Aaron. I share the same name with the guy who congress looks to for their updateson the cybersecurity world, so I often find myself under attack by his many rivals.
-- 👀 I’m interested in 1st and foremost God, and let me be clear... I am woken up and I do not believe anything ay orginized religion claims. In all honesty if there were going to be 2 false prophits, I can tell already they are the religions themselves and those who head them. Im mostly reffering to muslims, islam, and the thousands of varieties of christians. All clam to be or have prophets.... so, Logically that's where you will find the each and evry false one. True prophets aren't labeled as such due to the resistance of conforming to societiest religious delusions.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 1st and foremost I'm 100% fully enlightened by the definition of enlightment given to us via Buddha. Well he is the closest to exactly what God told me face to face when I briefly died. That being said 90% of my day I'm either interested in meditation and/or anythin and everything to do withhhhhhwht huans refer to as God and thehigher self. I want to be visibly clear.... I am awoken in the most spiritual of senses and I do not believe any organized religious claims. In all honesty; if there were going to be 2 False prophets, I can tell you according to the source of everything that is, the Organized religions themselves and those who head them; and Im mostly reffering to muslims, islam, and the thousands of varieties of christians. All claim to be or have prophets.... so, Logically that's where you will find each and evry false one. You have to be a revered Prophet first before you can be deemed a false prophet. True prophets aren't labeled as such due to the resistances in Societies religious delusions.     Besides that im deeply focused on ethical hacking and making it my lifes mission to see to it that scam hackers and the like go extinct.
+- 🌱 I’m currently learning the Foundations of Cybersecurity @Merit America using @Coursera to earn my certs.
+- 💞️ I’m looking to collaborate on whatever my lifes road lays ahead of me. Im hoping to one day develop a system for each and every human on this spaceship we call Earth to be fluent in enterprise level cybersecurity by the end of there junior high grade schooling. I whole heartedly believe that with any and all things internet related, especially because the way things are going these days within the cyber landscape, that no man, woman, or child should be aloud to access all things internet until they can prove they are knowledgable enough to mitigate any malicious attack that may come their way.
+- 📫 You can reach me the same way you think you can reach God. Trust me I'll get the message. For those not on that level yet you can call or text me at 1-804-413-6738, email me at aaron.pope.turner@gmail.com, or chat me up on slack...find me here: https://meritamericalearners.slack.com/team/U0727D5BZRC @Aaron Turner. Lastly you can find me at linked in by following this link: <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="aaron-turner-6216ab30b" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/aaron-turner-6216ab30b?trk=profile-badge">Aaron Turner</a></div>
+- 😄 Pronouns: This should be banned
+- ⚡ Fun fact: You are God and I can prove it to satisfaction for you. Just ask if you would like to wake up.
 
 <!---
 aaron-pope-turner/aaron-pope-turner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="aaron-turner-6216ab30b" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/aaron-turner-6216ab30b?trk=profile-badge">Aaron Turner</a></div>
+              
